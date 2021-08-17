@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["webdriverio/async"],
+    "rootDir": "src"
+  }
+}
